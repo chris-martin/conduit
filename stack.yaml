@@ -14,3 +14,6 @@ extra-deps:
 - gauge-0.2.1
 - basement-0.0.5
 - foundation-0.0.18
+nix:
+  packages:
+    - zlib
